@@ -1,1 +1,3 @@
-# Discord-Engagement-Points-Bot
+# Discord-Engagement-Points-Bot (WIP)
+
+work-in-progress
